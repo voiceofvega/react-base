@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "description": "Skeleton React application",
   "author": "Philippe Martinou",
-  "private": true,
+  "private": false,
   "repository": {
     "type": "git",
-    "url": "https://phm:spl1tmamba@213.246.38.63:9010/r/react-base.git"
+    "url": "https://github.com/voiceofvega/react-base.git"
   },
   "devDependencies": {
     "babel": "^5.8.23",

@@ -1,11 +1,11 @@
 # react-base
-Skeleton ReactJS / Flux application base
+Skeleton ReactJS / Flux application
 
 Meetup ReactJS @ Anaplan, 24/09/2015
 @author Philippe Martinou
 
 Features:
-    Full React-Flux application, with React Components > Actions > Dispatcher > Stores > Components flux.
+    Full React-Flux application, with React Components > Actions > Dispatcher > Stores > Components flux.s
     Sample Server interaction, with Server Mocking.
     Gulp build/watch; Service on BrowserSync.
     Jasmine Unit Tests.
